@@ -6,8 +6,8 @@ class MainBlock extends React.Component {
 	constructor(props) {
 	  	super(props);
 		var a, b, M=[];
-		a = 10;
-		b = 10;
+		a = 5;
+		b = 5;
 		for(var i=0; i<a; i++) {
 	   		M[i] = new Array(b);
 		}
