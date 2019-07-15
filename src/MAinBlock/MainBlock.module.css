@@ -1,0 +1,10 @@
+.main{
+	display: inline-flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.row{
+	display: inline-flex;
+	justify-content: center;
+	flex-direction: row;
+}

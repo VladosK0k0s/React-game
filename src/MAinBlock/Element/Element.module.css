@@ -1,0 +1,30 @@
+.elem button{
+	cursor: pointer;
+	padding: 10px;
+  	border: none;
+  	border-style: none;
+  	outline: none;
+ 	font: inherit;
+ 	color: inherit;
+  	background-color: transparent;
+}
+.elem{
+	padding: 2px;
+	border: 1px solid ;
+}
+.red{
+	background-size: 100%;
+	background-image: url("img/clover.png");
+}
+.blue{
+	background-size: 100%;
+	background-image: url("img/diamond.png");
+}
+.green{
+	background-size: 100%;
+	background-image: url("img/heart.png");
+}
+.yellow{
+	background-size: 100%;
+	background-image: url("img/spades.png");
+}
